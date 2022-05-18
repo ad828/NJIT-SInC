@@ -1,37 +1,23 @@
 ## Sound Interaction and Computing Lab
 
-You can use the [editor on GitHub](https://github.com/ad828/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About the Lab
+The Sound Interaction and Computing (SInC) Lab is headed by Prof. Mark Cartwright in the Informatics Department of New Jersey Institute of Technology. The lab pursues research at the intersection of Human-Computer Interaction and Machine Learning with the aim of building tools to aid in the understanding and the creative expression of sound. To do so, the lab studies people’s needs and practices, researches new technology to meet those needs, and then studies how people use the new technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Research
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ad828/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Current
+2. Projects
+3. Go
+4. Here
 
-### Support or Contact
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Us
+
+Have some questions for the lab? Inquiries? Comments? Feel free to send us something if you are interested: 
