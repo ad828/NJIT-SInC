@@ -21,3 +21,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Contact Us
 
 Have some questions for the lab? Inquiries? Comments? Feel free to send us something if you are interested: 
+[About](about.md)
