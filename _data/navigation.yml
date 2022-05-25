@@ -1,9 +1,9 @@
 - name: About
   link: /page-1/
 - name: Projects
-  link: /page/
+  link: /projects/
 - name: Publications
-  link: /product/
+  link: /publications/
 - name: People
   link: /people/
     
