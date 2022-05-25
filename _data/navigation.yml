@@ -1,0 +1,13 @@
+- name: About
+  link: /page-1/
+- name: Research
+  link: /blog/
+- name: Projects
+  link: /page/
+- name: Publications
+  link: /product/
+- name: Resources
+  link: /recipe/
+- name: People
+  link: /people/
+    
