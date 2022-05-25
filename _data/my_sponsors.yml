@@ -1,0 +1,23 @@
+- tier_name: PHD Candidates
+  size: large
+  sponsors:
+    - name: Sripathi Sridhar
+      profile: https://github.com/
+    - name: Keita Onshiro
+      profile: https://github.com/
+- tier_name: Masters Students
+  sponsors:
+    - name: Aaron Basch
+      profile: https://github.com/
+    - name: Lucas Bastos
+      profile: https://github.com/
+    - name: Danzel Serrano
+      profile: https://github.com/
+- tier_name: Undergraduate Students
+  sponsors:
+    - name: Mehakeet Kaur
+      profile: https://github.com/
+    - name: Simran Kaur
+      profile: https://github.com/
+    - name: Anthony Detorfino
+      profile: https://github.com/
